@@ -1,0 +1,23 @@
+﻿  Encryption.cpp
+Encryption.cpp(134): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+Encryption.cpp(143): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+Encryption.cpp(239): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Encryption.cpp(309): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(315): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(326): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+Encryption.cpp(335): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+Encryption.cpp(344): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(345): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(346): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(347): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(348): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(349): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(350): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(351): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(352): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Encryption.cpp(435): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project - Cryptography.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Release\Project - Cryptography.exe
+  Project - Cryptography.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Release\Project - Cryptography.pdb (Full PDB)

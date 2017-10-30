@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\headers\fileio.h(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\headers\matrix.h(33): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\headers\matrix.h(42): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\source.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\source.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\adity\onedrive\documents\visual studio 2015\projects\introductionc++\project - cryptography\source.cpp(114): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project - Cryptography.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Debug\Project - Cryptography.exe
+  Project - Cryptography.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Debug\Project - Cryptography.pdb (Partial PDB)
