@@ -1,12 +1,8 @@
 Created by Aditya Vidyadharan
 
-System Requirements: Windows XP or higher to run SecroCryptr.exe, C++ IDE to edit .cpp files
+Run on a Windows machine
 
-This is a user-friendly, math-intensive program aimed at implementing the principles of the Hill Cipher in C++ code. 
+How it works:
+THe Hill Cipher method is utilized to encrypt a phrase the user provides. The program utilizes math concepts such as matrix multiplication in order to encrypt the phrase with a randomly generated key. Once the phrase is encrypted, a file is generated and stored to a user-specified location. The same program has a decryption mode to decrypt the generated file
 
-Method of Encryption/Decryption:
-As stated above, SecroCryptr uses the Hill Cipher, which involves assigning each letter in the alphabet (other characters are
-not supported) a numerical value and multiplying the characters in groups of 3 with a 3x3 matrix of randomly generated numbers. 
-To fully understand the encryption/decryption method, visit https://www.wikipedia.org/wiki/Hill_cipher
-
-Good luck and enjoy your completely uncrackable messages!!!"
+Enjoy!
