@@ -1,4 +1,4 @@
-Conceptualized, designed, and coded by Avinash Kumar
+Created by Aditya Vidyadharan
 
 System Requirements: Windows XP or higher to run SecroCryptr.exe, C++ IDE to edit .cpp files
 
