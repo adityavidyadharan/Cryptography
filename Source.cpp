@@ -18,7 +18,7 @@ int main()
 	cout << "*****************************************************************************************************************************************************************************************************" << endl;
 	cout << "                                                                                                >EncrypToText<" << endl;
 	cout << "*****************************************************************************************************************************************************************************************************" << endl;
-	cout << "                                                                                         >Written by: Aditya R. Vidyadharan<" << endl;
+	cout << "                                                                  >Written by: Aditya R. Vidyadharan, Avaneen Pininnti, Mehraaj Tawa, Sohum Pohane<" << endl;
 	cout << "*****************************************************************************************************************************************************************************************************" << endl;
 	cout << "Use this program to encrypt a message. You will need to choose the mode (encryption or decryption), path of the encrypted message file, and then choose to run the program again or exit" << endl;
 	while (run)
