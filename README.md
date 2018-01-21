@@ -1,7 +1,7 @@
 # Cryptography
 An encryption program that encrypts a provided phrase and saves it to an set location
 
-Created by Aditya Vidyadharan, Avaneen Pininnti, Mehraaj Tawa, Sohum Pohane
+Created by Aditya Vidyadharan, Avaneen Pinninti, Mehraaj Tawa, Sohum Pohane
 
 Run on a Windows machine
 
